@@ -1,0 +1,1 @@
+Built a robust Sentiment Classification model using neural networks, trained on IMDb movie reviews dataset. Implemented Word Embeddings for feature extraction, achieving accurate sentiment predictions and even predicting IMDb ratings. Demonstrated expertise in Python, TensorFlow, Keras, and NLP techniques
